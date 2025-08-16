@@ -1,1 +1,3 @@
-# real-estate-comping-tool-2.0
+# Real Estate Comping Tool
+
+Your all-in-one real estate underwriting platform.
